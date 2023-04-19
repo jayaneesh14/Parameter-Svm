@@ -40,4 +40,4 @@
 
 Graph of Accuracy per 1000 iterations for Sample 5:
 
-![alt text](https://github.com/divshacker1010/Parameter-optimisation-svm/blob/main/screenshot.png)
+![alt text](https://github.com/jayaneesh14/Parameter-Svm/blob/main/screenshot.png)
